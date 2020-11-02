@@ -1,5 +1,5 @@
 # Research-on-data-mining-of-permission-induced-risk-for-android-IoT-devices
-#1.1 Getting Started
+# 1.1 Getting Started
 The list of .apk files that have been downloaded for the android.permission feature extraction in the Apk Files folder are.
 Goodware/Benign 
 Applications: 
@@ -7,7 +7,7 @@ Applications:
 2. Facebook_v156.0.0.36.100_apkpure.com.apk Malware Applications:
 1. org.benews.apk
 2. com.BioTechnology.iClientsService44370 
-#1.2 Pre-requisites: 
+# 1.2 Pre-requisites: 
 The list of softwares that have been used in the Module-01 as pre-requisites are,
 1. PyCharm - For executing python codes. 
 2. Notepad++ 
@@ -17,7 +17,7 @@ The list of Folder and Sources in the zipped folder,
 2. Apk Source Files 
 3. Python Source Files 
 
-#Reverse Engineering: 
+# Reverse Engineering: 
 2.1 Decompilation and Indexing: 
 Step 1: Make a new folder and put .apk file in it (which you want to decode). Now rename the extension of this .apk file to .zip (eg.: rename from filename.apk to filename.apk.zip) and save it 
 Step 2: Now extract this zip apk file in the same folder. Now download dex2jar from the Tools folder. and extract it to the same folder. Now open command prompt and change directory to that folder. Then write dex2jar classes.dex and press enter. Now you get classes.dex.dex2jar file in the same folder. 
