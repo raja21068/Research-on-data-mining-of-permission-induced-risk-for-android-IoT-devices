@@ -24,3 +24,19 @@ Step 1: Make a new folder and put .apk file in it (which you want to decode). No
 Step 2: Now extract this zip apk file in the same folder. Now download dex2jar from the Tools folder. and extract it to the same folder. Now open command prompt and change directory to that folder. Then write dex2jar classes.dex and press enter. Now you get classes.dex.dex2jar file in the same folder. 
 
 Step 3: Then download java decompiler from Tools folder And now double click on jd-gui and click on open file. Then open classes.dex.dex2jar file from that folder. Now you get class files and save all these class files. The extracted readable form of source files are curated in the Apk Source Folder.
+
+##### Please cite As:
+```
+@Article{Kumar,
+AUTHOR = {Kumar, Rajesh and Zhang, Xiaosong and Khan, Riaz Ullah and Sharif, Abubakar},
+TITLE = {Research on Data Mining of Permission-Induced Risk for Android IoT Devices},
+JOURNAL = {Applied Sciences},
+VOLUME = {9},
+YEAR = {2019},
+NUMBER = {2},
+ARTICLE-NUMBER = {277},
+URL = {https://www.mdpi.com/2076-3417/9/2/277},
+ISSN = {2076-3417},
+DOI = {10.3390/app9020277}
+}
+
